@@ -128,7 +128,7 @@ terraform apply --auto-approve
 
 
  Azure VM은 인터넷 통신을 하기위해 별도로 Route Table을 설정할 필요가 없습니다.  
-기본적으로 Outbound 통신이 가능합니다.  
+기본적으로 Outbound 통신이 가능합니다. [(링크)](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access)  
 하지만 NAT Gateway를 두고 통신하는 것이 좋습니다.  
 AWS와는 설정하는게 달라 좀 까다롭긴했네요  
 
