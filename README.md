@@ -17,7 +17,7 @@
 
 > ### 전체 구성도
 
-![Image](src/AKS.png)
+![Image](src/Architecture.png)
 
 ---
 
